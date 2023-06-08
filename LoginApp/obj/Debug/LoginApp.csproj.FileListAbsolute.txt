@@ -1,0 +1,12 @@
+D:\Travail C#\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+D:\Travail C#\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+D:\Travail C#\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.SuggestedBindingRedirects.cache
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.FrmMain.resources
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+D:\Travail C#\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
